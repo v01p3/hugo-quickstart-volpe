@@ -1,4 +1,4 @@
-baseURL = 'https://www.v01p3.com'
+baseURL = 'https://www.v01p3.com/'
 languageCode = 'en-us'
 title = 'Volpe'
 theme = 'netlify-basic'
